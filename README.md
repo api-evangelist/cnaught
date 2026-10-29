@@ -64,5 +64,128 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-CNaught is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://www.nasdaqprivatemarket.com/
+CNaught provides a science‑backed platform that helps businesses purchase, manage and retire high‑integrity carbon credits. Their API enables integration of carbon‑credit portfolios, access to Energy Attribute Certificates, and tools for emissions calculations, aiming to simplify climate impact for companies of any size.
+
+**Areas:** Company · Climate · Carbon Credits · Sustainability
+
+## CNaught on APIs.io
+
+Everything profiled for CNaught is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/cnaught/](https://apis.io/providers/cnaught/)** — or go straight to one of the APIs or properties below.
+
+### APIs (3)
+
+- [CNaught CNaught API](https://apis.io/apis/cnaught/cnaught-cnaught-api-api/) — The CNaught API API from CNaught — 2 operation(s) for cnaught api.
+- [CNaught Orders API](https://apis.io/apis/cnaught/cnaught-orders-api/) — The Orders API from CNaught — 2 operation(s) for orders.
+- [CNaught Subaccounts API](https://apis.io/apis/cnaught/cnaught-subaccounts-api/) — The Subaccounts API from CNaught — 1 operation(s) for subaccounts.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [DeleteV1SubaccountsIdResponse](https://apis.io/schemas/cnaught/cnaught-delete-v1-subaccounts-id-response/)
+- [GetV1V1IdIdResponse](https://apis.io/schemas/cnaught/cnaught-get-v1-v1-id-id-response/)
+- [GetV1V1IdResponse](https://apis.io/schemas/cnaught/cnaught-get-v1-v1-id-response/)
+- [PostV1OrdersIdCancelResponse](https://apis.io/schemas/cnaught/cnaught-post-v1-orders-id-cancel-response/)
+- [PostV1OrdersIdResponse](https://apis.io/schemas/cnaught/cnaught-post-v1-orders-id-response/)
+- [PostV1V1IdRequest](https://apis.io/schemas/cnaught/cnaught-post-v1-v1-id-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Cnaught Context](https://apis.io/jsonld/cnaught/cnaught-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [CNaught API Rules](https://apis.io/rules/cnaught/cnaught-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Cnaught Authentication](https://apis.io/security/cnaught/cnaught-authentication/)
+- [Cnaught Domain Security](https://apis.io/security/cnaught/cnaught-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Cnaught Plans Pricing](https://apis.io/plans/cnaught/cnaught-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.cnaught.com/)
+- [Documentation](https://docs.cnaught.com/)
+- [Getting started](https://docs.cnaught.com/quickstart)
+- [API reference](https://docs.cnaught.com/api-reference/introduction)
+- [Pricing](https://www.cnaught.com/pricing)
+- [Support](https://www.cnaught.com/contact-sales)
+- [Changelog](https://docs.cnaught.com/changelog)
+- [Blog](https://www.cnaught.com/blog)
+- [Terms of service](https://www.cnaught.com/terms)
+- [Privacy policy](https://www.cnaught.com/privacy)
+- [GitHub](https://github.com/cnaught-inc)
+- [Status](https://status.cnaught.com/)
+
+## API Evangelist rating
+
+**Kin Score 44.7** — developing · rubric 0.25.0 · scored 2026-10-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 69.6 |
+| Contract quality | 24.0 |
+| Contract governance | 22.0 |
+| Operational transparency | 36.8 |
+| Developer ergonomics | 54.8 |
+| Access clarity | 63.2 |
+
+**Agent readiness 28.1** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | documented (partial credit) |
+| MCP Server | — |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | verified |
+| Error Semantics | — |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | — |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/cnaught/](https://apis.io/providers/cnaught/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for CNaught: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/cnaught/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
